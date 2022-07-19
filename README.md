@@ -1,6 +1,12 @@
 # PSGetCAS
 Get-CAS script provides a PowerShell interface to the Apereo CAS Initializr on Heroku.
 
+The CAS project provides a public free instance of the CAS Initializr on Heroku,
+paid for by the Apereo CAS support subscribers. (from https://apereo.github.io)
+The CAS project also gives an example of a BASH script to create a command-line
+interface to the CAS Initializr. This is a PowerShell alternative for those
+working on the MS Windows platform.
+
 ## Command-Line Help
 You can view this help by invoking the script with the `-help` switch.
 
@@ -90,6 +96,12 @@ REMARKS
     For technical information, type: "get-help .\Get-CAS.ps1 -full".
 
 ```
+
+## System Requirements
+This script was built with PowerShell 5.1. Your mileage may vary.
+
+## Terms and Conditions
+Download and use of any content (files, scripts, images, etc.) from the repository located at https://github.com/franzone/PSGetCAS construes your consent to these Terms and Conditions. Use of this script or any related files is at your own risk. The author, Jonathan Franzone, his family, friends or associates, may not be held liable for any damages, imagined or real, caused by your use of this script or related files.
 
 ## Author
 The author of this script is Jonathan Franzone (that's me!). You can find more information about him at:
