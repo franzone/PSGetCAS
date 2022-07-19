@@ -7,6 +7,11 @@ The CAS project also gives an example of a BASH script to create a command-line
 interface to the CAS Initializr. This is a PowerShell alternative for those
 working on the MS Windows platform.
 
+## Installation
+Download and run (within a PowerShell Console). Duh.
+
+**NOTE**: This script will NOT setup a custom PowerShell module/CmdLet. I may add that later.
+
 ## Command-Line Help
 You can view this help by invoking the script with the `-help` switch.
 
